@@ -3,6 +3,8 @@
     "files.associations": {
         "windows.h": "c",
         "stdbool.h": "c",
-        "stdio.h": "c"
+        "stdio.h": "c",
+        "wincon.h": "c",
+        "winnls.h": "c"
     }
 }
